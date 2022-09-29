@@ -19,4 +19,5 @@ This exercise was designed to help you understand this week's content. It is not
     * An h1 is a block element with a default margin of negative space above and below it. Remove the default margin by adding the `margin; 0;` declaration to the h1 element style.
     * Make all the text in the section element align right;
     * Resize your browser window to see how the layout of the page shifts with different screen sizes. The image was given a static size of 600 pixels in the HTML. Use CSS to overwrite that dimension and change the image width to 60%, a relative unit. Resize your browser window again to see how this change has affected the layout. 
+    * Why did we not nest the image in a `<figure>` element?
 
