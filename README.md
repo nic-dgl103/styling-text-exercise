@@ -14,7 +14,7 @@ This exercise was designed to help you understand this week's content. It is not
       * Change the root font size to 62.5%;
       * Reduce the body font size to the equivalent of 12 pixels using the rem unit.
       * Increase the h1 font size to the equivalent of 260 pixels using the rem unit.
-    * Reduce the line-height of the h1 to 1.8;
+    * Reduce the line-height of the h1 to .8;
     * In the HTML, add line breaks between each word in the h1 using `<br />`
     * An h1 is a block element with a default margin of negative space above and below it. Remove the default margin by adding the `margin; 0;` declaration to the h1 element style.
     * Make all the text in the section element align right;
