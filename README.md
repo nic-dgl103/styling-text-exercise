@@ -12,7 +12,7 @@ This exercise was designed to help you understand this week's content. It is not
         * Copy the Stint Ultra Condensed CCS rule and apply it to the h1 element.
     * Change the font sizing:
       * Change the root font size to 62.5%;
-      * Reduce the body font size to the equivalent of 12 pixels using the rem unit.
+      * Increase the body font size to the equivalent of 12 pixels using the rem unit.
       * Increase the h1 font size to the equivalent of 260 pixels using the rem unit.
     * Reduce the line-height of the h1 to .8;
     * In the HTML, add line breaks between each word in the h1 using `<br />`
